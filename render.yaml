@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: irvine-ca-92618
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
