@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irvine-ca-92618.onrender.com/sitemap.xml
+Sitemap: https://irvine-ca-92618.onrender.com/orange-county-property-management/sitemap.xml
